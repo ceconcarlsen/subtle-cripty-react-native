@@ -1,5 +1,9 @@
 # subtle-crypto-react-native
 
+## About
+Esse código é uma implementação customizada da API Web Crypto (crypto.subtle) para React Native, utilizando módulos nativos (NativeModules) para fornecer geração de números aleatórios, hash, criptografia, e derivação de chaves.
+
+
 ```
 import { NativeModules } from 'react-native';
 
